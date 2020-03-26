@@ -1,0 +1,66 @@
+*{
+MARGIN:0;
+PADDING:0;
+font-family: 'Times New Roman', Times, serif;
+
+}
+header{
+background-image: url(../images/images.jfif);
+height: 100vh;
+background-size: cover;
+background-position: center;
+}
+ul{
+    float:right;
+    list-style-type: none;
+    margin-top: 25px;
+}
+ul li{
+    display: inline-block;
+}
+
+
+ul li a{
+text-decoration: none;
+color: black;
+padding: 5px 20px;
+border: 1px solid transparent;
+transition: 0.6s ease;
+}
+ul li a:hover{
+    background-color: #fff;
+    color: #000;
+  
+}
+
+ul li.active a{
+    background-color: #fff;
+    color: #000;
+}
+.logo img{
+    float: left;
+    width: 150 px;
+    height: 30px;
+    
+}
+
+.main{
+    max-width: 1200px;
+    margin: auto;
+}
+
+
+
+.title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%)
+}
+.title h1{
+    color: white;
+    
+}
+
+
+

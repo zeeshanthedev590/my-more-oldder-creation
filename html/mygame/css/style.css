@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: fantasy;
+
+}
+body {
+    color: whitesmoke;
+    background-color: firebrick;
+    text-align: center;
+    font-size: x-large;
+  }
+  
+  h1 {
+    color:rgb(62, 128, 252);
+  }
+  button{
+      text-decoration: black;
+      font-family: 'Times New Roman', Times, serif;
+  }

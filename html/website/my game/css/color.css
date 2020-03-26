@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    padding: 0;
+     animation:bgcolor infinite 20s;
+
+     
+}
+@keyframes bgcolor{
+    60%
+    {
+        background:rgb(59, 59, 152) ;
+    }
+    50%
+    {
+        background: rgb(253, 114, 114);
+    }
+    70%
+    {
+        background: blue;
+    }
+    80%
+    {
+        background: #4cd137;
+    }
+    60%
+    {
+        background:rgb(45, 52, 54) ;
+    }
+    20%
+    {
+        background:rgb(69, 192, 12);
+    }
+    20%
+    {
+        background:#5352ed ;
+    }
+    40%
+    {
+        background: #a4b0be;
+    }
+    30%
+    {
+        background:#FC427B ;
+    }
+    30%
+    {
+        background:#FD7272 ;
+    }
+    30%
+    {
+        background:#55E6C1 ;
+    }
+    30%
+    {
+        background:#cd84f1 ;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
